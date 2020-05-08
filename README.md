@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+    Express allows routing and middleware
+
 - [ ] Describe Middleware?
+
+    Middleware are functions that act as gatekeepers for every request to the server
 
 - [ ] Describe a Resource?
 
+    Json data
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    status(200)
+
 - [ ] How can we partition our application into sub-applications?
+
+    by using routers and let them handle different applications
 
 ## Minimum Viable Product
 
